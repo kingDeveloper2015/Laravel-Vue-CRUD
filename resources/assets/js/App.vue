@@ -1,7 +1,6 @@
 <template>
   <div class="container">
     <div>
-      aaaa
       <transition name="fade">
         <router-view></router-view>
       </transition>
